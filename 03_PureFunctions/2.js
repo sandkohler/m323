@@ -16,8 +16,8 @@ function multiplyWithRandom(number, randomValue) {
     return number * randomValue;
 }
 
-console.log(multiplyWithRandom(5, 3)); // Ausgabe: 15
-console.log(multiplyWithRandom(10, 8)); // Ausgabe: 80
+console.log(multiplyWithRandom(5, Math.random(10)));
+console.log(multiplyWithRandom(10, Math.random(3)));
 
 
 
