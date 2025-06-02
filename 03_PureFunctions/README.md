@@ -49,10 +49,10 @@ console.log(firstCharacter("Hello")); // Ausgabe: H
 console.log(firstCharacter("JavaScript")); // Ausgabe: J
 ```
 
-- [X] Nur ein Rückgabewert
+- [ ] Nur ein Rückgabewert
 - [X] Resultat nur Abhängig von übergebenen Parametern
 - [X] Verändert keine existierenden Werte
-- pure
+- impure
 
 ### Aufgabe 1.4
 
@@ -84,10 +84,10 @@ console.log(divideNumbers(10, 2)); // Ausgabe: 5
 console.log(divideNumbers(8, 4));  // Ausgabe: 2
 ```
 
-- [X] Nur ein Rückgabewert
+- [ ] Nur ein Rückgabewert
 - [X] Resultat nur Abhängig von übergebenen Parametern
 - [X] Verändert keine existierenden Werte
-- pure
+- impure
 
 ### Aufgabe 1.6
 
