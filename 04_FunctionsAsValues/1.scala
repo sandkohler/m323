@@ -1,4 +1,4 @@
-object Main {
+object Map {
   def main(args: Array[String]): Unit = {
 
     // Übung 1
