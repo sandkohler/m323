@@ -28,6 +28,19 @@ Zeigen Sie die Kompetenzen hinsichtlich Verwendung geeigneter Strukturen und Alg
 
 Dokumentieren Sie Ihr Vorgehen. Zeigen Sie auf, wie Sie das Problem in Teilprobleme gegliedert haben (und somit in einzelne Funktionen).
 
+## Anforderungen an den Code
+
+Ziel ist es, dass Sie in Ihrer Aufgabe möglichst Ihr Wissen aus diesem Modul umsetzen können, d.h.
+
+- Wir verwenden Pure Functions
+- Die Daten sind immutable (Daten werden kopiert oder durch Rekursion immutable gehalten)
+- Wir wenden Rekursion an
+- Wir arbeiten mit PatternMatching
+- Wir wenden Map-Funktionen an (FlatMap, Map, Filter) oder for-comprehensions
+- Wir arbeiten mit HOF (higher-order-functions)
+
+Die jeweilige Applikation wird über die Konsole bedient. Stellen Sie sicher, dass Sie Ausgaben (System-outs) an einer zentralen Stelle implementieren und nicht auf Funktionen verteilen (Trennung Businesslogik und Benutzerschnittstelle)
+
 ## Erwartete Ergebnisse
 
 - Verwendung von Pure Functions gem. Vorgaben in Kapitel 08 (siehe GitLab)
