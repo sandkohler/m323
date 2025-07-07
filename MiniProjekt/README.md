@@ -46,3 +46,5 @@ Die jeweilige Applikation wird über die Konsole bedient. Stellen Sie sicher, da
 - Verwendung von Pure Functions gem. Vorgaben in Kapitel 08 (siehe GitLab)
 - Verwendung von Rekursion
 - Kurze Präsentation des Programms (max. 5 Minuten)
+
+(Alt + Shift + F => Formatiert JSON File)
